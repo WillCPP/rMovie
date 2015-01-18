@@ -8,12 +8,16 @@ To run the program, Ruby must be installed.
 
 Display
     -Displays the list of titles and ratings alphabetically.
+
 Add
     -Adds a new title and rating to the list.
+
 Update
     -Updates a title's rating.
+
 Delete
     -Deletes a title and rating from the list.
+
 Exit
     -Exits the program.
 
@@ -21,5 +25,5 @@ Exit
 
 IMPORTANT
 -A moviesy.yaml file must be present for the program to function properly.
-	-will try to fix this so that rMovie will create a moviesy.yaml file 
-	 if one is not present.
+	
+-will try to fix this so that rMovie will create a moviesy.yaml file if one is not present.
